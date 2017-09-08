@@ -1,2 +1,2 @@
-# cst336
-All class work
+# locatelli_cst336
+Repo for Internet Programming
